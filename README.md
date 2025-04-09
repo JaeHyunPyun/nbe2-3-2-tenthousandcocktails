@@ -2,7 +2,7 @@
 > **프로그래머스 데브코스 2기 - 2차 프로젝트 Team01** <br/> **개발기간: 2024.12.10 ~ 2025.1.6**
 
 <div align="center">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/0e490cde-3336-4297-b107-099cc836ce8e">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/db9b9745-a459-4b4c-8d5b-f9294dec0980">
 </div>
 
 <br/>
@@ -43,12 +43,12 @@
 ## 🛠️ 화면구성
 | 페이지명          | 주요 기능                                                                   | 화면 |
 |---------------|-------------------------------------------------------------------------|------|
-| 메인 페이지        | 오늘의 칵테일 추천                                                              | <img width="600" src="https://github.com/user-attachments/assets/449a15c6-b31a-444d-a3cb-a65017aec12c"/> |
-| 관리자 페이지       | 웹사이트 통계 조회, </br> 사용자 계정 정보 검색, </br> 관리자 권한 댓글 검색 및 삭제                 | <img width="600" src="https://github.com/user-attachments/assets/c7d65616-9fce-4cb8-a3d2-777783e080b5"/> |
-| 사용자 인증        | ID 및 PW 기반 로그인, </br> 로그아웃, </br> 회원탈퇴, </br> 비밀번호 수정, </br> Kakao 소셜 로그인 | <img width="600" src="https://github.com/user-attachments/assets/8b66ace3-f832-4eb4-9874-adf1b41c75da"/> |
-| 마이 페이지        | 사용자 계정 및 즐겨찾기 정보 조회   | <img width="600" src="https://github.com/user-attachments/assets/3d8866f2-7d32-472f-b79d-6a0893835bd9"/> |
-| 인기 칵테일 추천     | 좋아요 기반 인기 칵테일 조회   | <img width="600" src="https://github.com/user-attachments/assets/2aa50794-faae-4552-88ec-a9604646abdb"/> |
-| 칵테일 추천        | Open-AI API를 활용한 지식 기반 추천   | <img width="600" src="https://github.com/user-attachments/assets/2a966877-6168-4a72-ad41-84fbd0d1bcaa"/> |
+| 메인 페이지        | 오늘의 칵테일 추천  | <img width="600" src="https://github.com/user-attachments/assets/b989d019-6417-4394-ba49-f248f6d8e334"/> |
+| 관리자 페이지       | 웹사이트 통계 조회, </br> 사용자 계정 정보 검색, </br> 관리자 권한 댓글 검색 및 삭제   | <img width="600" src="https://github.com/user-attachments/assets/e256f37c-7fdf-4b3a-815b-5750813e3e0b"/> |
+| 사용자 인증        | ID 및 PW 기반 로그인, </br> 로그아웃, </br> 회원탈퇴, </br> 비밀번호 수정, </br> Kakao 소셜 로그인 | <img width="600" src="https://github.com/user-attachments/assets/85597c25-2c46-4f04-ac0f-49c6bc2f8c3c"/> |
+| 마이 페이지        | 사용자 계정 및 즐겨찾기 정보 조회   | <img width="600" src="https://github.com/user-attachments/assets/f22c8344-b9df-4800-a023-aeb215b52482"/> |
+| 인기 칵테일 추천     | 좋아요 기반 인기 칵테일 조회   | <img width="600" src="https://github.com/user-attachments/assets/22934aec-bcba-4305-95d5-2db0be75be1b"/> |
+| 칵테일 추천        | Open-AI API를 활용한 지식 기반 추천   | <img width="600" src="https://github.com/user-attachments/assets/7fc9fdcc-98a2-456a-9c3c-3e6ab7e9b5c9"/> |
 | 칵테일 검색        | 칵테일명 또는 재료 기반 검색, <br/> 조회수 또는 좋아요수 기반 인기 검색어 추천  | <img width="600" src="https://github.com/user-attachments/assets/4837d12b-2a65-4c68-bff1-34ffaf17cbcd"/> |
 | 좋아요, 즐겨찾기, 댓글 | 좋아요, 즐겨찾기, 댓글 조회, 등록, 삭제   | <img width="600" src="https://github.com/user-attachments/assets/f2dde502-a4d0-41b6-9f23-d3f625f76634"/> |
 
