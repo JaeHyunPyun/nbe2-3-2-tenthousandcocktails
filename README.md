@@ -84,3 +84,8 @@
 <div align="center">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/4021572d-60d0-42ce-978e-75dc94d05af3">
 </div>
+
+### ERD
+<div align="center">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/72a4cfb6-0f5a-43b7-8900-60763f0c1438">
+</div>
