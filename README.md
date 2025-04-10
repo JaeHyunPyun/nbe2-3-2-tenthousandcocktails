@@ -1,5 +1,5 @@
 # Project : 만개의 칵테일
-> **프로그래머스 데브코스 2기 - 2차 프로젝트 Team01** <br/> **개발기간: 2024.12.10 ~ 2025.1.6**
+> **프로그래머스 데브코스 2기 - 2차 프로젝트 Team01** <br/> **개발기간: 2024.12.10 - 2025.1.6**
 
 <div align="center">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/db9b9745-a459-4b4c-8d5b-f9294dec0980">
